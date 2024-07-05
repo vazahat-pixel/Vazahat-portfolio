@@ -1,0 +1,45 @@
+.container-about{
+    padding: 30px;
+    width: 35%;
+    border: 1px solid rgb(156, 107, 107);
+    border-radius: 50px;
+
+}
+.About{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 800;
+    font-size: large;
+    margin-top: 50px;
+    
+}
+.container-about h4{
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+
+}
+
+.Box{
+    padding: 100px 0px 20px 100px;
+    display: flex;
+    flex-direction: row;
+    
+    
+    
+}
+.container-Skills{
+    display:contents;
+    margin: 50px;
+    border: 1px solid rgb(151, 38, 38);
+    
+}
+.left{
+    margin-right: 200px;
+    margin-left: 100px;
+}
+
+
+    
+
